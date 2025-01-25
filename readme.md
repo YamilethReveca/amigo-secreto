@@ -84,7 +84,7 @@ Pantalla con nombres añadidos para jugar:
 
 
 Pantalla con el resultado del sorteo:
-![Imagen del nombre del amigo ganador del sorteo realizado](./assets/listado_amigos.png)
+![Imagen del nombre del amigo ganador del sorteo realizado](./assets/sorteo_ganador.png)
 
 ## Consideraciones finales:
 
